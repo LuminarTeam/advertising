@@ -12,7 +12,7 @@
 * Display - 1280x768 size or better.
 * Graphics - Open GL 3.3 or later compatible graphics.
 
-### Our team
+### Famous artist using Luminar AI
 ![luminar-team](https://i.imgur.com/92zZ61o.png)
 
 ### Get the terms of cooperation and video materials.
